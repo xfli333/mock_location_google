@@ -18,7 +18,7 @@ AIzaSyD-DKI5asqiq0_69Yq8eBa3zUynsA3zq1w
 
 
 
-keytool -list -v -keystore /Users/admin/mock_location.keystore -alias mock_location.keystore -storepass 982911 -keypass 982911
+keytool -list -v -keystore /Users/admin/mock_location_google.keystore -alias mock_location.keystore -storepass 982911 -keypass 982911
 
 
 Certificate fingerprints:
@@ -28,6 +28,5 @@ Certificate fingerprints:
 	 Version: 3
 
 
-AIzaSyCvqytrO2DZpoFZFHGQYR2ZdL9rl_vMj00
+AIzaSyBHaR-RKmREU4auSdIzV86b5D1mxvQBWpE
 
-baidu map key: 95ECA0FFB3FEF3DB9ACBCEC8AF5DE12ADC4F4CDE
